@@ -8,6 +8,7 @@ public class Hello {
 	
 	String name;
 	String message;
+	Шубахм ту то гадха хай пагал хай акл нхи хай бе туджме
 	
 	public Hello() {
 		super();
